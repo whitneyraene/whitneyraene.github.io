@@ -1,0 +1,51 @@
+body{
+	background-color: #D8F1E4;
+	background-image: url("http://newheightsnazarene.org/wp-content/themes/new_heights/images/colourback_c.png");
+}
+
+#content{
+	margin: auto;
+	margin-top: 100px;
+	width: 435px;
+}
+
+#poloroid{
+	border: 10px solid #FFF;
+	width: 400px;
+	-webkit-transform: rotate(-10deg);
+	-moz-transform: rotate(-10deg);
+}
+
+#poloroid_pic{
+	width: 400px;
+}
+
+#poloroid_pic img{
+	width: 400px;
+}
+
+#poloroid_develop{
+	background-color: #000;
+	position: absolute;
+	top:0px;
+	left:0px;
+	z-index:100;
+	width: 400px;
+	height: 400px;
+}
+
+#poloroid_bottom{
+	width: 400px;
+	background: white;
+	height: 80px;
+	color: #523B1D;
+	font-family: 'Tangerine';
+	text-align: center;
+	padding-top: 10px;
+	//text-shadow: 2px 2px 2px #000;
+}
+
+#poloroid_bottom h1{
+	font-size: 80px;
+	margin: 0px;
+}
